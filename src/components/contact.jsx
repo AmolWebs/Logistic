@@ -47,8 +47,8 @@ const Contact = () => {
         </svg>
       ),
       title: 'Phone',
-      detail: '+91 98765 43210',
-      link: 'tel:+919876543210'
+      detail: '+91 7770069761',
+      link: 'tel:+917770069761'
     },
     {
       icon: (
@@ -58,8 +58,8 @@ const Contact = () => {
         </svg>
       ),
       title: 'Email',
-      detail: 'support@transportx.com',
-      link: 'mailto:support@transportx.com'
+      detail: 'krushnaroadlinees@gmail.com',
+      link: 'mailto:krushnaroadlinees@gmail.com'
     },
     {
       icon: (
@@ -80,7 +80,7 @@ const Contact = () => {
         </svg>
       ),
       title: 'Hours',
-      detail: 'Mon - Sat: 9:00 AM - 6:00 PM',
+      detail: '24*7',
       link: null
     }
   ];
